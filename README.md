@@ -1,2 +1,2 @@
 # BattleTank
-A simple open-world game with AI and advanced controls.
+A simple open-world tank game with AI and advanced controls.
